@@ -120,8 +120,29 @@ a{
 }
 /* ----------Donate Plan End---------- */
 
-
-
+/* ----------Fundraising Start---------- */
+.fundraising{
+    display: flex;
+    margin: 0 auto;
+    width:90%;
+    padding:100px 0 80px;
+}
+.fundraising_left{
+    width:50%;
+}
+.color_crimson{
+    color: crimson;
+}
+.fundraising_left h1{
+    font-size: 50px;
+}
+.fundraising_right img{
+    width:80%;
+    margin-left:70px;
+    border: 1px solid grey;
+    box-shadow: 10px 10px 5px grey;
+}
+/* ----------Fundraising end---------- */
 
 /* ----------Updates Start---------- */
 .updates{
